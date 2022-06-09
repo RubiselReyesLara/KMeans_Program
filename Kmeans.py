@@ -1,6 +1,6 @@
 import Metricas
 
-ARCHIVO = open('datos\datos_Kmeans.txt', 'r')
+ARCHIVO = open('datos\datos-tratados.txt', 'r')
 VECTOR = list()
 
 # Leo la data
