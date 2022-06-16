@@ -1,6 +1,6 @@
 import Metricas
 
-ARCHIVO = open('datos\datos-tratados.txt', 'r')
+ARCHIVO = open('datos\\100datos.txt', 'r')
 VECTOR = list()
 
 # Leo la data
