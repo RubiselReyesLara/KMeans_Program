@@ -9,6 +9,6 @@ of distances between two points, where these will be formalized by a centroid, a
 Es una técnica de aprendizaje no supervisado donde se agrupan los datos que comparten semejanzas en determinados grupos. Para esto, se emplea el manejo de la medición
 de distancias entre dos puntos, donde estos se formalizarán por un centroide, y un punto concreto. En este algoritmo, los centroides se determinan a través de alguna técnica de selección basada en el codo obtenido por la varianza de cada cluster, o de forma aleatoria. Al finalizar el algoritmo, se pueden visualizar los datos que manejan una mayor semejanza con algún respectivo cluster, de forma que estos se pueden agrupar en grupos semejantes.
 
-## Tools used
+## Second-hand tools
 - Python 3.8
 - Visual Studio Code
